@@ -1,0 +1,13 @@
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv50beta37.dtd" >
+   <PATCH nodename="C:\Users\daniel\Desktop\Projekte\20181021 - vvvv\Doodle03BinSize.v4p" systemname="Doodle03BinSize" filename="C:\Users\daniel\Desktop\Projekte\20181021 - vvvv\Doodle03BinSize.v4p">
+   <BOUNDS type="Window" left="0" top="0" width="21150" height="15855">
+   </BOUNDS>
+   <PACK Name="dx11" Version="1.3.1.1">
+   </PACK>
+   <PACK Name="dx11.particles" Version="1.0.6">
+   </PACK>
+   <PACK Name="vvvv-Message" Version="2.9.10">
+   </PACK>
+   <PACK Name="addonpack" Version="36.0.0">
+   </PACK>
+   </PATCH>
